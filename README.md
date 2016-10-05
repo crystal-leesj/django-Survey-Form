@@ -9,6 +9,7 @@ This is one of assignment from Coding Dojo. Using Django, building a simple surv
 
 for PC's
 > python -m virtualenv djangoEnv
+
 > call djangoEnv/scripts/activate
 
 > (djangoEnv)>pip install django
