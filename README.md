@@ -1,16 +1,15 @@
 # django-Survey-Form
 
 This is one of assignment from Coding Dojo. Using Django, building a simple survey form web app. In order to follow the app, you need to create a virtual environment in your virtual environment folder.
-> > virtualenv djangoEnv
+> virtualenv djangoEnv
 
-> > source djangoEnv/bin/activate
+> source djangoEnv/bin/activate
 
 > (djangoEnv)>pip install django
 
 for PC's
-> > python -m virtualenv djangoEnv
-
-> > call djangoEnv/scripts/activate
+> python -m virtualenv djangoEnv
+> call djangoEnv/scripts/activate
 
 > (djangoEnv)>pip install django
 
