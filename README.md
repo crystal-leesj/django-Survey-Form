@@ -14,7 +14,7 @@ for PC's
 
 > (djangoEnv)>pip install django
 
-After you run **python manage.py runserver**, browse yourself to [localhost:8000].
+After you run **python manage.py runserver**, browse yourself to [localhost:8000] (http://localhost:8000)
 
 
 ### Description
