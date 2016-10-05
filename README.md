@@ -5,7 +5,7 @@ This is one of assignment from Coding Dojo. Using Django, building a simple surv
 > source djangoEnv/bin/activate
 (djangoEnv)>pip install django
 
-# or for PC's
+for PC's
 
 > python -m virtualenv djangoEnv
 > call djangoEnv/scripts/activate
